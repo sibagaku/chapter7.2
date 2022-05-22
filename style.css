@@ -3,3 +3,44 @@
   padding:0;
   box-sizing: border-box;
 }
+
+.main-visual {
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-position: bottom;
+  background-size: cover;
+  padding:20px;
+}
+
+.main-visual .heading {
+  color: #bbb;
+  font-size: 32px;
+}
+
+main {
+  width: 840px;
+  margin:50px auto;
+}
+
+.service1 {
+  padding-bottom: 30px;
+  border-bottom: 1px solid black;
+  margin-bottom: 30px;
+}
+
+.service2 {
+  padding-bottom: 30px;
+  border-bottom: 1px solid black;
+  margin-bottom: 30px;
+}
+
+.service3 {
+  padding-bottom: 30px;
+  border-bottom: 1px solid black;
+  margin-bottom: 30px;
+}
+
+.service4 {
+  padding-bottom: 30px;
+  border-bottom: 1px solid black;
+}
